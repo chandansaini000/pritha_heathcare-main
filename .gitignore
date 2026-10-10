@@ -1,0 +1,6 @@
+node_modules
+.next
+.env
+*.log
+.well-known
+public/.well-known
