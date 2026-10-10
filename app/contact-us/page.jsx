@@ -1,9 +1,7 @@
 import PageBanner from "@/components/PageBanner";
 import ContactForm from "@/components/ContactForm";
 import { site } from "@/lib/site";
-
 export const metadata = { title: "Contact Us" };
-
 export default function Contact() {
   return (
     <>
